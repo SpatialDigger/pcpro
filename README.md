@@ -12,6 +12,7 @@
 + Add support for other files import/export
 + Reset stats when new files are added
 + Documentation
++ Improve Between Distance visualisation, including colour maps
 
 ## 0.3.1
 
