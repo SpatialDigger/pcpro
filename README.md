@@ -8,8 +8,8 @@
 # ABOUT
 Welcome to Point Cloud Processor, this program helps clean overlapping point clouds so they can be combined and turned into a solid mesh.
 
-# DOCUMENTAION
-
+# DOCUMENTATION
+In progress...
 
 # CHANGE LOG
 
