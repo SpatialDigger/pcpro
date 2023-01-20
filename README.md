@@ -16,6 +16,7 @@ In progress...
 ## 0.3.2
 ### To do
 + Crashes if 'set' button is pressed before Between distance
++ Crashes if statistical filter is pressed when values are zero
 + Enable radius filter
 + Enable concave prefilter
 + Automatically check for updates
