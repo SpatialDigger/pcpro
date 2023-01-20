@@ -29,7 +29,7 @@ In progress...
 
 ## 0.3.1
 
-Status: awaiting release (expected 2023)
+Status: user testing
 
 **NEW FEATURES** 
 
