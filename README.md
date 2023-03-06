@@ -26,6 +26,8 @@ In progress...
 + Reset stats when new files are added
 + Documentation
 + Improve Between Distance visualisation, including colour maps
++ Enable multithreading
++ loading bars
 
 ## 0.3.2
 
