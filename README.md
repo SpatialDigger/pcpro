@@ -13,7 +13,7 @@ In progress...
 
 # CHANGE LOG
 
-## 0.3.2
+## 0.3.3
 ### To do
 + Crashes if 'set' button is pressed before Between distance
 + Crashes if statistical filter is pressed when values are zero
@@ -26,6 +26,18 @@ In progress...
 + Reset stats when new files are added
 + Documentation
 + Improve Between Distance visualisation, including colour maps
+
+## 0.3.2
+
+Status: in development
+
+**NEW FEATURES** 
++ **Data** 
+  + Enable multiple pointcloud files
+  
+ **BUG FIXES** 
+ 
+ **IMPROVEMENTS**
 
 ## 0.3.1
 
