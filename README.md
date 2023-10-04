@@ -35,7 +35,7 @@ Status: in development
 
 **NEW FEATURES** 
 + **Data** 
-  + Enable multiple pointcloud files
+  + Enable multiple pointcloud files (import only)
   
  **BUG FIXES** 
  
