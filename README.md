@@ -15,8 +15,8 @@ In progress...
 
 ## 0.3.3
 ### To do
-+ Crashes if 'set' button is pressed before Between distance
-+ Crashes if statistical filter is pressed when values are zero
++ Crashes if 'set' button is pressed before Between distance **BUG**
++ Crashes if statistical filter is pressed when values are zero **BUG**
 + Enable radius filter
 + Enable concave prefilter
 + Automatically check for updates
@@ -41,12 +41,20 @@ Status: in development
  
  **IMPROVEMENTS**
 
-## 0.3.1
-
+## 0.4.0
 Status: user testing
-
 **NEW FEATURES** 
 
+ **BUG FIXES** 
+ 
+ **IMPROVEMENTS**
++ Distributed as a MSI installer
++ Speed enhancements by restructung the underlying class DataFames
++ Updated to 2024 release
+
+## 0.3.1
+
+**NEW FEATURES** 
 + **Point cloud attributes** 
   + Switch between colours
   + Real colours
@@ -69,6 +77,5 @@ Status: user testing
 + Standardised filtering for display and export
 
 ## 0.3.0
-
 Complete rewrite of the software in Python 3.9, dropping pptk for Open3D's viewer, vast time improvewments by adopting Numpy arrays
 Alpha testing only.
