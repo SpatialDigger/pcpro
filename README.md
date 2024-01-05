@@ -13,24 +13,24 @@ In progress...
 
 # CHANGE LOG
 
-## 0.3.3
+## 0.4.x
 ### To do
 + Crashes if 'set' button is pressed before Between distance **BUG**
 + Crashes if statistical filter is pressed when values are zero **BUG**
-+ Enable radius filter
-+ Enable concave prefilter
-+ Automatically check for updates
-+ User preferences, css theme
-+ Enable multiple files
-+ Add support for other files import/export
-+ Reset stats when new files are added
-+ Documentation
-+ Improve Between Distance visualisation, including colour maps
-+ Enable multithreading
-+ loading bars
++ Enable radius filter **FEATURE**
++ Enable concave prefilter **FEATURE**
++ Automatically check for updates **FEATURE**
++ User preferences, css theme **FEATURE**
++ Enable multiple files **FEATURE**
++ Add support for other files import/export **FEATURE**
++ Reset stats when new files are added **BUG**
++ Documentation **FEATURE**
++ Improve Between Distance visualisation, including colour maps **IMPROVEMENT**
++ Enable multithreading **IMPROVEMENT**
++ loading bars **IMPROVEMENT**
++ Licensing support **FEATURE**
 
-## 0.3.2
-
+## 0.4.1
 Status: in development
 
 **NEW FEATURES** 
@@ -44,12 +44,14 @@ Status: in development
 ## 0.4.0
 Status: user testing
 **NEW FEATURES** 
++ None
 
  **BUG FIXES** 
+ + None
  
  **IMPROVEMENTS**
 + Distributed as a MSI installer
-+ Speed enhancements by restructung the underlying class DataFames
++ Speed enhancements by restructuring the underlying class DataFames
 + Updated to 2024 release
 
 ## 0.3.1
