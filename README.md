@@ -13,6 +13,11 @@ In progress...
 
 # CHANGE LOG
 
+## 0.5x
+### To Do
+In version 0.5 PCPro will be incorporated into serveral tools including:
++ Volume Statistics
+
 ## 0.4.x
 ### To do
 + Crashes if 'set' button is pressed before Between distance **BUG**
